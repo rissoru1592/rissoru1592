@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rissoru1592
+- I like to code Minecraft Client and Discord Bots
+- 🌱 I’m currently learning JavaScript and Java
